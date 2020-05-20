@@ -1,4 +1,4 @@
-# similarity-check
+# Similarity Check
 <b><h2>Restful API for similarity check using natural language processing</h2></b>
 {The application includes Docker and written in Python}
 
