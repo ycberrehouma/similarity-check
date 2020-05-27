@@ -1,6 +1,6 @@
 # Similarity Check
 <b><h2>Restful API for similarity check using natural language processing</h2></b>
-{The application includes Docker and written in Python}<br><br><b>
+{The application includes Docker and written in Python}<br><br><b></b>
 
 - Each user can register and create an accout <br>
 - All Data information is storred in MongoDB <br>
